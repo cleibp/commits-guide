@@ -1,4 +1,4 @@
-# Commits command guide
+<h1 align="center"> 🚀 Commits Guide</h1>
 
 
 ## Contatos
