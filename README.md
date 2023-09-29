@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Commits Guide</h1>
+<h1 align="center"> 🚀 Commits </h1>
 
 # Padrões de Commits
 
